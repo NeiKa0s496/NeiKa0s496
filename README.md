@@ -1,5 +1,5 @@
 
-╭───----- 🌟 Welcome to My GitHub 🌟 -----───╮
+╭───------- 🌟 Welcome to My GitHub 🌟 -------───╮
 
 |     👋 Hi, I’m @Epharedam, a first-semester  |
 |         📚 Computer Science Student!         |
