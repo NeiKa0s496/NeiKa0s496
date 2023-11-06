@@ -1,18 +1,14 @@
 
-╭───----- 🌟 Welcome to the My Github 🌟 -----───╮
+╭───----- 🌟 Welcome to My GitHub 🌟 -----───╮
 
-|     👋 Hi, I’m @Epharedam, first semester      |
+|     👋 Hi, I’m @Epharedam, a first-semester  |
+|         📚 Computer Science Student!         |
 
-|      📚 Computer Science Student!              |
+|    🌟 👀 I’m interested in ML, llM, and      |
+|        💡 all things related to AI!          |
 
-|    🌟 👀 I’m interested in ML, llM, and        |
+|    🌱 Currently cultivating my knowledge in  |
+|      🌟 Java, Python, Haskell, and AI!       |
 
-|        💡 all things related to AI!            |
-
-|    🌱 Currently cultivating my knowledge in    |
-
-|      🌟 Java, Python, Haskell, and AI!         |
-
-|                                                |
-
-╰──✨Hope that you can find something useful here✨──╯
+|                                           |
+╰──✨ Hope that you can find something useful here ✨──╯
