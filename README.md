@@ -10,6 +10,4 @@
 |    🌱 Currently cultivating my knowledge in  |
 |      🌟 Java, Python, Haskell, and AI!       |
 
-|                                           |
-
 ╰──✨ Hope that you can find something useful here ✨──╯
