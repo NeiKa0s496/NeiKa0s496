@@ -1,3 +1,10 @@
-- 👋 Hi, I’m @Epharedam, Computer science student freshman.
-- 👀 I’m interested in AI, llM, and anything related to Artificial intelligence
-- 🌱 I’m currently learning Java, Python, Haskell and AI
+
+╭───----- 🌟 Welcome to the My Github 🌟 -----───╮
+|     👋 Hi, I’m @Epharedam, first semester      |
+|      📚 Computer Science Student!              |
+|    🌟 👀 I’m interested in ML, llM, and        |
+|        💡 all things related to AI!            |
+|    🌱 Currently cultivating my knowledge in    |
+|      🌟 Java, Python, Haskell, and AI!         |
+|                                                |
+╰──────────────────────✨✨✨─────────────────────╯
