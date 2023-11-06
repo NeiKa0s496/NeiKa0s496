@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Epharedam, Computer science student freshman.
+- 👀 I’m interested in AI, llM, and anything related to Artificial intelligence
+- 🌱 I’m currently learning Java, Python, Haskell and AI
