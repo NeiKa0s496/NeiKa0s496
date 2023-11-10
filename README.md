@@ -16,3 +16,4 @@
 ╰──✨ Hope that you can find something useful here ✨──╯
 
 [![](https://visitcount.itsvg.in/api?id=Epharedam&label=Profile%20Views&color=0&icon=9&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" width="35%">
