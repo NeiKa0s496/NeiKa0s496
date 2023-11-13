@@ -34,5 +34,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Epharedam&show_icons=true&theme=nightowl&rank_icon=github&card_width=300" />
 </a>
 <a href="https://github.com/Epharedam/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Epharedam&layout=compact&langs_count=8&card_width=300&theme=nightowl&hide_progress=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Epharedam&layout=compact&langs_count=8&card_width=300&theme=nightowl&hide_progress=true" />
 </a>
