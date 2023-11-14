@@ -1,8 +1,3 @@
-
-<table border="0">
- <tr>
-    <td> 
- <p align="center">        
 ╭───--------------- 🌟 ABOUT ME 🌟 ----------------───╮
 
      👋 Hi, I’m @Epharedam, a first-semester  
