@@ -1,3 +1,5 @@
+<table>
+<td>
 ╭───--------------- 🌟 ABOUT ME 🌟 ----------------───╮
 
      👋 Hi, I’m @Epharedam, a first-semester  
