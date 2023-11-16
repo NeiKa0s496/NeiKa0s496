@@ -16,7 +16,9 @@
 
 ╰──✨ Hope that you can find something useful here ✨──╯</p> <br />
 <p align="center">
- <img src="https://64.media.tumblr.com/6ede3bc77b903b1ab5c32b3511b80675/4790829953b0cb05-a1/s400x600/c60ea3a18383a38ce846e919f744a47e904687ab.gifv" alt="header"><br />     
+     
+[![GitHub Streak](https://streak-stats.demolab.com?user=Epharedam&theme=midnight-purple&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&fire=71EBB6&sideNums=5DEBB7&sideLabels=00FFC3&background=3D139E)](https://git.io/streak-stats)
+
 </td> 
 <td><img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" width="100%"></td>
 <br/>
