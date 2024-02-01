@@ -2,7 +2,7 @@
 <td>
 ╭───--------------- 🌟 ABOUT ME 🌟 ----------------───╮
 
-     👋 Hi, I’m @Epharedam, a first-semester  
+     👋 Hi, I’m @Epharedam, 2nd semester  
 
          📚 Computer Science Student!        
 
