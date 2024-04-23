@@ -2,23 +2,27 @@
 <td>
 ╭───--------------- 🌟 ABOUT ME 🌟 ----------------───╮
 
-     👋 2nd semester Computer Science Student       
+     👋 2nd semester Computer Science Student 
+          @Facultad de Ciencias, UNAM      
 
-    🌟 👀 I’m interested in ML, llM, and      
+    🌟  I’m interested in ML, llM, and  👀    
 
-        💡 all things related to AI          
+        💡 all things related to AI  💡        
 
     🌱 Currently cultivating my knowledge in  
 
-      🌟 Java, Python, Haskell, and AI      
-
+      🌟 Java, Python, Haskell, and AI  
+ 
 ╰──✨ maybe you'll find something useful ✨──╯</p> <br />
-<p align="center">
+
 <!--<a href="https://github.com/Zerabalus/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zerabalus&show_icons=true&theme=nightowl&rank_icon=github&card_width=200" />
 </a>-->
-     
-
+## Programming Languages I've studied the most
+<p align="center"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     
+<p align="center">
 <br />
 <a href="https://github.com/Zerabalus/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zerabalus&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" />
@@ -34,6 +38,6 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Zerabalus&label=Views&color=9&icon=2&pretty=true" />
 </a>
-
+  
  </tr>
 </table>
