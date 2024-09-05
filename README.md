@@ -10,15 +10,13 @@
 <td>
 ╭───--------------- 🌟 ABOUT ME 🌟 ----------------───╮     
 
-    🌟  I’m interested in ML, llM, and AI 👀    
+    🌟  I’m interested in ML, llM, and AI  👀    
 
     💡  I like drawing and coding in my free time  💡        
 
-    🌱 I’m currently learning:  
-
-      Java, Python, Haskell, and AI   🌟
+    🌱  I’m currently learning: Java, Python, Haskell, and AI  🌟
  
-╰──✨ maybe you'll find something useful ✨──╯</p> <br />
+╰────✨ maybe you'll find something useful ✨──╯</p> <br />
 
 <!--<a href="https://github.com/Zerabalus/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zerabalus&show_icons=true&theme=nightowl&rank_icon=github&card_width=200" />
