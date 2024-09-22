@@ -21,9 +21,9 @@ Ephi@linux: ~/my_readme $ neofetch
 ```csharp
 ------------------------------------------------------
 
-Username: Ephi 👩‍🎓 Computer Science Student @Facultad de Ciencias, UNAM 👩🏻‍💻
-WhoamI: 2nd semester Computer science student.
-Also I'm a freelance artist!
+Username: Ephi 👩‍🎓
+WhoamI: 2nd semester Computer science student @Facultad de
+Ciencias, UNAM 👩🏻‍💻 Also I'm a freelance artist!
 
 OS: DEBIAN and Arch btw
 Hobbies: 💡 I like drawing, gaming, coding, i have an anime
