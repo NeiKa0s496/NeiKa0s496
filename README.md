@@ -12,8 +12,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zerabalus&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=100&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
 
-<a href="https://github.com/Zerabalus/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zerabalus&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" />
 
 </td> 
 <td>
@@ -50,6 +48,9 @@ Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
 		
 <p align="center">
 <br />
+<a href="https://github.com/Zerabalus/convoychat">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zerabalus&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" />
+
 </a>
 </td>
 <br/>
