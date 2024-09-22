@@ -5,19 +5,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=27&pause=1000&color=32C6BD&width=1000&lines=%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%92%BB%E2%80%A7%E2%82%8A%CB%9A%F0%9F%96%87%EF%B8%8F%E2%9C%A9++Welcome!+I'm+Ephi++%E2%82%8A%CB%9A%F0%9F%8E%A7%E2%8A%B9%E2%99%A1%F0%9F%92%BE%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9;%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%C2%B0%E2%9C%A9+%F0%9F%92%BB%E2%80%A7%E2%82%8A%CB%9A%F0%9F%96%87%EF%B8%8F%E2%9C%A9++Bienvenid%40!+Soy+Ephi++%E2%82%8A%CB%9A%F0%9F%8E%A7%E2%8A%B9%E2%99%A1%F0%9F%92%BE%E2%9C%AE+%E2%8B%86+%CB%9A%EF%BD%A1%F0%96%A6%B9+%E2%8B%86%EF%BD%A1%C2%B0%E2%9C%A9)](https://git.io/typing-svg)
 
 
-<h3 align="center">👩‍🎓 2nd semester Computer Science Student @Facultad de Ciencias, UNAM 👩🏻‍💻 </h3>
+<h3 align="center">👩‍🎓 Computer Science Student @Facultad de Ciencias, UNAM 👩🏻‍💻 </h3>
 <table>
 <td>
-╭───--------------- 🌟 ABOUT ME 🌟 ----------------───╮     
-
-    🌟  I’m interested in ML, llM, and AI  👀    
-
-    💡  I like drawing and coding in my free time  💡        
-
-    🌱  I’m currently learning: Java, Python, Haskell, and AI  🌟
- 
-╰────✨ maybe you'll find something useful ✨──╯</p> <br />
-
+   
+```zsh
+Ephi@linux: ~/my_readme (main 👩🏻‍💻 )$ neofetch
+```
+```csharp
+╭───--------------- 🌟 ABOUT ME 🌟 ----------------───╮  
+------------------------------------------------------
+Username: Ephi
+WhoamI: 2nd semester Computer science student. Also I'm a freelance artist!
+OS: DEBIAN and Arch btw 
+Hobbies: 💡 I like drawing, gaming, coding in my free time  💡      
+Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
+╰────✨ maybe you'll find something useful ✨──╯
+```
+</p> <br />
 <!--<a href="https://github.com/Zerabalus/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zerabalus&show_icons=true&theme=nightowl&rank_icon=github&card_width=200" />
 </a>-->
