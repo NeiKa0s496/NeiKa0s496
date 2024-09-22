@@ -24,18 +24,15 @@ Ephi@linux: ~/my_readme $ neofetch
 Username: Ephi 👩‍🎓
 WhoamI: 2nd semester Computer science student @Facultad de
 Ciencias, UNAM 👩🏻‍💻 Also I'm a freelance artist!
-
 OS: DEBIAN and Arch btw
-Hobbies: 💡 I like drawing, gaming, coding, i have an anime
-collection,enjoy upgrading my setup and ricing my laptop
-      
+Hobbies: drawing, gaming, watch anime, read manga, also
+I have an anime manga and figure collection, I enjoy
+upgrading my setup, and ricing my laptop.      
 Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
-
 Interests: AI, Linux, Machine Learning, bash scripts
-
-♥: Anime, Xiao from Genshin impact, manga
-
-👾: https://anilist.co/user/ZerAdam/
+Fav characters: Xiao from Genshin impact; Yatora Yaguchi
+from Blue Period; Aventurine, Sunday, Dr. Ratio from HSR
+Anime and manga: https://anilist.co/user/ZerAdam/
 
 ╰────🖥️ maybe you'll find something useful 🖥️──╯
 
