@@ -27,6 +27,7 @@ WhoamI: 2nd semester Computer science student. Also I'm a freelance artist!
 OS: DEBIAN and Arch btw 
 Hobbies: 💡 I like drawing, gaming, coding in my free time  💡      
 Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
+Interests; AI, Linux, Machine Learning
 
 ╰────🖥️ maybe you'll find something useful 🖥️──╯
 ------------------------------------------------------
@@ -62,4 +63,4 @@ Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
 </a>-->  
  </tr>
 </table>
-<img src="https://64.media.tumblr.com/e2287dab542312c2516aa9cd838ea85a/0adc0aa2c7f17d8d-35/s2048x3072/f067e0dd341959bd27bbd10781f52212d391f800.jpg" alt="<3" width="200%">
+<img src="https://64.media.tumblr.com/07f4de24029cebb84073a181cafe7b0a/78be68c3582c106c-c6/s2048x3072/54bf59f48c2ec50a924f2b23ed3739ede3411cb6.jpg" alt="<3" width="200%">
