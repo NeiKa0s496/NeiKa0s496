@@ -55,7 +55,6 @@ Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
 </a>
 </td>
 <br/>
-
 <!--<a
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Zerabalus&label=Views&color=9&icon=2&pretty=true" />
@@ -63,3 +62,4 @@ Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
 </a>-->  
  </tr>
 </table>
+<img src="https://64.media.tumblr.com/e2287dab542312c2516aa9cd838ea85a/0adc0aa2c7f17d8d-35/s2048x3072/f067e0dd341959bd27bbd10781f52212d391f800.jpg" alt="<3" width="200%">
