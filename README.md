@@ -16,17 +16,26 @@
 <td>
    
 ```zsh
-Ephi@linux: ~/my_readme (main 👩🏻‍💻 )$ neofetch
+Ephi@linux: ~/my_readme $ neofetch
 ```
 ```csharp
 ------------------------------------------------------
 
 Username: Ephi 👩‍🎓 Computer Science Student @Facultad de Ciencias, UNAM 👩🏻‍💻
-WhoamI: 2nd semester Computer science student. Also I'm a freelance artist!
+WhoamI: 2nd semester Computer science student.
+Also I'm a freelance artist!
+
 OS: DEBIAN and Arch btw
-Hobbies: 💡 I like drawing, gaming, coding and ricing my laptop  💡      
+Hobbies: 💡 I like drawing, gaming, coding, i have an anime
+collection,enjoy upgrading my setup and ricing my laptop
+      
 Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
-Interests; AI, Linux, Machine Learning
+
+Interests: AI, Linux, Machine Learning, bash scripts
+
+♥: Anime, Xiao from Genshin impact, manga
+
+👾: https://anilist.co/user/ZerAdam/
 
 ╰────🖥️ maybe you'll find something useful 🖥️──╯
 
