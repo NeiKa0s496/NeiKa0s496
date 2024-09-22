@@ -8,11 +8,11 @@
 <h3 align="center">👩‍🎓 Computer Science Student @Facultad de Ciencias, UNAM 👩🏻‍💻 </h3>
 <table>
 <td>
-<img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" width="180%">
+<img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" width="200%">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zerabalus&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=100&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
 
-<img src="https://64.media.tumblr.com/a2c7c6bd77de6fc0939a4429854f289b/2c941dd21660cbf4-a4/s1280x1920/106469df6f6080188acbe0a56e29aef0ac25ed77.jpg" alt="<3" width="180%">
+<img src="https://64.media.tumblr.com/a2c7c6bd77de6fc0939a4429854f289b/2c941dd21660cbf4-a4/s1280x1920/106469df6f6080188acbe0a56e29aef0ac25ed77.jpg" alt="<3" width="200%">
 
 </td> 
 <td>
