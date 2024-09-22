@@ -12,6 +12,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zerabalus&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=100&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
 
+<img src="https://64.media.tumblr.com/a2c7c6bd77de6fc0939a4429854f289b/2c941dd21660cbf4-a4/s1280x1920/106469df6f6080188acbe0a56e29aef0ac25ed77.jpg" alt="<3" width="180%">
 
 </td> 
 <td>
