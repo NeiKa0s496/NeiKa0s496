@@ -30,10 +30,24 @@ Anime and manga: https://anilist.co/user/ZerAdam/
 
 ------------------------------------------------------
 ```
-
+<!--<a<img src="https://64.media.tumblr.com/a2c7c6bd77de6fc0939a4429854f289b/2c941dd21660cbf4-a4/s1280x1920/106469df6f6080188acbe0a56e29aef0ac25ed77.jpg" alt="<3" width="50%" height="20%">
+</a>-->
 <table>
 <td>
+<a href="https://github.com/Zerabalus/convoychat">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zerabalus&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" />
 
+<p align="center"> 
+	
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zerabalus&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=100&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
+<p align="center">
+	
+<br /> <br />
+
+</td> 
+<td>
+<a href="https://github.com/Zerabalus/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zerabalus&show_icons=true&theme=nightowl&rank_icon=github&card_width=200" />
+	
 ## Programming languages and tools I've studied/used
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -42,27 +56,8 @@ Anime and manga: https://anilist.co/user/ZerAdam/
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   <a href="https://www.latex-project.org/" > <img src="https://img.icons8.com/fluency/48/undefined/texshop.png" alt="latex" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org/" > <img src="https://img.icons8.com/color/48/undefined/postgreesql.png" alt="postgreesql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" height="40" width="80"></a>
-  
-		
+  <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" height="40" width="80"></a>	
 <p align="center">
-<img src="https://64.media.tumblr.com/a2c7c6bd77de6fc0939a4429854f289b/2c941dd21660cbf4-a4/s1280x1920/106469df6f6080188acbe0a56e29aef0ac25ed77.jpg" alt="<3" width="50%" height="20%">
-
-
-</td> 
-<td>
-	
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zerabalus&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=100&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
-
-</p> <br />
-<!--<a href="https://github.com/Zerabalus/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zerabalus&show_icons=true&theme=nightowl&rank_icon=github&card_width=200" />
-</a>-->
-
-
-<br />
-<a href="https://github.com/Zerabalus/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zerabalus&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" />
 
 </a>
 </td>
