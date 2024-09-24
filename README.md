@@ -48,11 +48,15 @@ Anime and manga: https://anilist.co/user/ZerAdam/
 </td> 
 <td>
 
-## Daily inspo 
-	
+## <div align="center" color="White">Daily inspo <img src="https://upload-os-bbs.hoyolab.com/upload/2022/03/29/62633586/6565a5be2ef27e68de6db3ddbb4d60ad_8509726593176836485.gif" alt="xiao" height="70" width="90"></div>
+
+
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 	
-## Languages and tools
+## <div align="center" color="White">Languages and tools <img src="https://64.media.tumblr.com/e7341da0b29fcf3907f544850269de7b/81558f769c234602-e1/s1280x1920/89b330b63f112310af202d319c3f14794621a1f4.gifv" alt="xiao" height="85" width="55"></div>
+
+
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > </a>
