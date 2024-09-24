@@ -32,6 +32,7 @@ Anime and manga: https://anilist.co/user/ZerAdam/
 ```
 <!--<a<img src="https://64.media.tumblr.com/a2c7c6bd77de6fc0939a4429854f289b/2c941dd21660cbf4-a4/s1280x1920/106469df6f6080188acbe0a56e29aef0ac25ed77.jpg" alt="<3" width="50%" height="20%">
 </a>-->
+
 <table>
 <td>
 <a href="https://github.com/Zerabalus/convoychat">
@@ -46,9 +47,12 @@ Anime and manga: https://anilist.co/user/ZerAdam/
 
 </td> 
 <td>
-<a href="https://github.com/Zerabalus/github-readme-stats"> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zerabalus&show_icons=true&theme=nightowl&rank_icon=github&card_width=200" />
+
+## Daily inspo 
 	
-## Programming languages and tools I've studied/used
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+	
+## Languages and tools
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > </a>
