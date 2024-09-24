@@ -16,7 +16,7 @@ Ephi@linux: ~/my_readme $ neofetch
 Username: Ephi 👩‍🎓
 WhoamI: 2nd semester Computer science student @Facultad de
 Ciencias, UNAM 👩🏻‍💻 Also I'm a freelance artist!
-OS: Debian (Gnome), EndeavourOS (i3WM-QEMU) and Arch btw (xmonad)
+OS: Debian(Gnome), EndeavourOS(i3WM-QEMU) and Arch...btw(xmonad)
 Hobbies: drawing, gaming, watch anime, read manga, also
 I have an anime manga and figure collection, I enjoy
 upgrading my setup, and ricing my laptop.      
