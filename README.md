@@ -11,15 +11,15 @@ Ephi@linux: ~/my_readme $ neofetch
 <img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" align="left" width="25%" height="20%">
 
 ```csharp
-------------------------------------------------------
+----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
 
-Username: Ephi 👩‍🎓
+Username: Ephi 👩🏻‍💻
 WhoamI: 2nd semester Computer science student @Facultad de
-Ciencias, UNAM 👩🏻‍💻 Also I'm a freelance artist!
+Ciencias, UNAM ˚ʚ♡ɞ˚ I'm also a freelance artist
 OS: Debian(Gnome), EndeavourOS(i3WM-QEMU) and Arch...btw(xmonad)
 Hobbies: drawing, gaming, watch anime, read manga, also
-I have an anime manga and figure collection, I enjoy
-upgrading my setup, and ricing my laptop.      
+I have an anime/manga/figure collection, I enjoy
+upgrading my setup and ricing my laptop.      
 Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
 Interests: AI, Linux, Machine Learning, bash scripts
 Fav characters: Xiao from Genshin impact; Yatora Yaguchi
@@ -28,7 +28,7 @@ Anime and manga: https://anilist.co/user/ZerAdam/
 
 ╰────🖥️ maybe you'll find something useful 🖥️──╯
 
-------------------------------------------------------
+-------------------------------------------------------------
 ```
 <!--<a<img src="https://64.media.tumblr.com/a2c7c6bd77de6fc0939a4429854f289b/2c941dd21660cbf4-a4/s1280x1920/106469df6f6080188acbe0a56e29aef0ac25ed77.jpg" alt="<3" width="50%" height="20%">
 </a>-->
