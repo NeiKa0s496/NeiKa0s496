@@ -23,7 +23,7 @@ jobs:
           base: ""
           config_timezone: America/Mexico_City
           plugin_anilist: yes
-          plugin_anilist_limit_characters: 36
+          plugin_anilist_limit_characters: 33
           plugin_anilist_sections: characters
           plugin_anilist_shuffle: yes
           plugin_anilist_user: .user.login
