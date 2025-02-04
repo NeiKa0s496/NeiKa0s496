@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Favorites anime and currently watching
+name: Favorites 
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -23,10 +23,8 @@ jobs:
           base: ""
           config_timezone: America/Mexico_City
           plugin_anilist: yes
-          plugin_anilist_limit: 3
           plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: manga, characters
-          plugin_anilist_sections: favorites
+          plugin_anilist_sections: characters
           plugin_anilist_shuffle: yes
           plugin_anilist_user: .user.login
         
