@@ -73,5 +73,7 @@ Interests: AI, Linux, Machine Learning, bash scripts
 </a>-->  
  </tr>
 </table>
-![Metrics](https://metrics.lecoq.io/Zerabalus)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 <img src="https://64.media.tumblr.com/07f4de24029cebb84073a181cafe7b0a/78be68c3582c106c-c6/s2048x3072/54bf59f48c2ec50a924f2b23ed3739ede3411cb6.jpg" alt="<3" width="200%">
