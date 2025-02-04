@@ -21,10 +21,8 @@ Hobbies: drawing, gaming, anime/manga, I have an anime/manga/figure
 collection, I enjoy upgrading my setup and ricing my laptop.      
 Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
 Interests: AI, Linux, Machine Learning, bash scripts
-Fav characters: Xiao from Genshin impact; Yatora Yaguchi
-from Blue Period; Aventurine, Sunday, Dr. Ratio from HSR
 
-╰────🖥️ maybe you'll find something useful 🖥️──╯
+╰────────🖥️ maybe you'll find something useful 🖥️───────────╯
 
 -------------------------------------------------------------
 ```
@@ -75,4 +73,5 @@ from Blue Period; Aventurine, Sunday, Dr. Ratio from HSR
 </a>-->  
  </tr>
 </table>
+![Metrics](https://metrics.lecoq.io/Zerabalus?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&anilist=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&anilist=false&anilist.user=.user.login&anilist.medias=anime%2C%20manga%2C%20characters&anilist.sections=favorites&anilist.limit=3&anilist.limit.characters=22&anilist.shuffle=true&leetcode=false&leetcode.user=.user.login&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=America%2FMexico_City)
 <img src="https://64.media.tumblr.com/07f4de24029cebb84073a181cafe7b0a/78be68c3582c106c-c6/s2048x3072/54bf59f48c2ec50a924f2b23ed3739ede3411cb6.jpg" alt="<3" width="200%">
