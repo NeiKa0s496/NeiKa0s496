@@ -35,6 +35,7 @@ Interests: AI, Linux, Machine Learning, bash scripts
 	
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zerabalus&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
 
+<img src="https://media.tenor.com/TI8pK4xA-FIAAAAj/xiao.gif" alt="<3" width="80%">
 	
 <br /> <br />
 
@@ -86,3 +87,4 @@ Interests: AI, Linux, Machine Learning, bash scripts
 </td>
 </table>
 <img src="https://64.media.tumblr.com/07f4de24029cebb84073a181cafe7b0a/78be68c3582c106c-c6/s2048x3072/54bf59f48c2ec50a924f2b23ed3739ede3411cb6.jpg" alt="<3" width="600%">
+
