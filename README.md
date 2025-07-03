@@ -22,7 +22,7 @@ collection, I enjoy upgrading my setup and ricing my laptop.
 Games: RDR2, BloodBorne, Honkai Star Rail, Genshin Impact
 Interests: AI, Linux, Machine Learning, bash scripts
 
-╰────────🖥️ maybe you'll find something useful 🖥️───────────╯
+╰────────🖥️ hope you find something useful 🖥️───────────╯
 
 -------------------------------------------------------------
 ```
