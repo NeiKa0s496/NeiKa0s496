@@ -7,8 +7,10 @@
 ```zsh
 Ephi@linux: ~/my_readme $ neofetch
 ```
-
+<!--
 <img src="https://64.media.tumblr.com/c691b0b552ca1f1184e29a961043a5b8/13dc282b0e3c383f-75/s400x600/cf1add40f8aa17dbac82088d21de2c8e5d23e2b0.gifv" alt="<3" align="left" width="25%" height="20%">
+-->
+<img src="gifs/1.gif" alt="<3" align="left" width="30%" height="500%">
 
 ```csharp
 ----------------------˚₊‧꒰ა ☆ ໒꒱ ‧₊˚---------------------------
@@ -34,8 +36,10 @@ Interests: AI, Linux, Machine Learning, bash scripts
 <p align="center"> 
 	
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zerabalus&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
-
+<!--
 <img src="https://media.tenor.com/TI8pK4xA-FIAAAAj/xiao.gif" alt="<3" width="80%">
+-->
+<img src="gifs/2.gif" alt="<3" align="center" width="60%">
 	
 <br /> <br />
 
@@ -82,8 +86,9 @@ Interests: AI, Linux, Machine Learning, bash scripts
 <a href="https://github.com/Zerabalus/convoychat">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zerabalus&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" />
 <p align="center">
-</td>
 </table>
+</td>
+
 
 ## <div align="center" color="White"> **Visit Counter** <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="xiao" height="55" width="55"></div>
 
