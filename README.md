@@ -92,7 +92,7 @@ Interests: AI, Linux, Machine Learning, bash scripts
 
 ## <div align="center" color="White"> **Visit Counter** <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="xiao" height="55" width="55"></div>
 
-<p align="center"> <a href="https://gitlab.com/epharedam"><img align="center" width=400 src=https://count.getloli.com/@NeiKa0s496?name=NeiKa0s496&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto> </a></p>
+<p align="center"> <a href="https://gitlab.com/NeiKos496"><img align="center" width=400 src=https://count.getloli.com/@NeiKa0s496?name=NeiKa0s496&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto> </a></p>
 	
 <img src="https://64.media.tumblr.com/07f4de24029cebb84073a181cafe7b0a/78be68c3582c106c-c6/s2048x3072/54bf59f48c2ec50a924f2b23ed3739ede3411cb6.jpg" alt="<3" width="600%">
 
