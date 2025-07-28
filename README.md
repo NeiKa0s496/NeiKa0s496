@@ -35,7 +35,7 @@ Interests: AI, Linux, Machine Learning, bash scripts
 <td>
 <p align="center"> 
 	
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zerabalus&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NeiKa0s496&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
 <!--
 <img src="https://media.tenor.com/TI8pK4xA-FIAAAAj/xiao.gif" alt="<3" width="80%">
 -->
@@ -83,8 +83,8 @@ Interests: AI, Linux, Machine Learning, bash scripts
 </td> 
 <td>
 
-<a href="https://github.com/Zerabalus/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zerabalus&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" />
+<a href="https://github.com/NeiKa0s496/convoychat">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeiKa0s496&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" />
 <p align="center">
 </table>
 </td>
@@ -92,7 +92,7 @@ Interests: AI, Linux, Machine Learning, bash scripts
 
 ## <div align="center" color="White"> **Visit Counter** <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="xiao" height="55" width="55"></div>
 
-<p align="center"> <a href="https://gitlab.com/epharedam"><img align="center" width=400 src=https://count.getloli.com/@zerabalus?name=zerabalus&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto> </a></p>
+<p align="center"> <a href="https://gitlab.com/epharedam"><img align="center" width=400 src=https://count.getloli.com/@NeiKa0s496?name=NeiKa0s496&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto> </a></p>
 	
 <img src="https://64.media.tumblr.com/07f4de24029cebb84073a181cafe7b0a/78be68c3582c106c-c6/s2048x3072/54bf59f48c2ec50a924f2b23ed3739ede3411cb6.jpg" alt="<3" width="600%">
 
