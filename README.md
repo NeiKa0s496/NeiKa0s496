@@ -36,11 +36,12 @@ Interests: AI, Linux, Machine Learning, bash scripts
 <td>
 <p align="center"> 
 	
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hilda.car&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color=3aa596&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+	
 [![GitHub Streak](https://streak-stats.demolab.com?user=NeiKa0s496&theme=midnight-purple&locale=es&date_format=j%20M%5B%20Y%5D&card_width=250&sideNums=4FAFA0&background=FCFCE6&border=DEC69C&stroke=DEC69C&currStreakLabel=B5CA9C&dates=DEC69C&ring=4FAFA0&fire=DFAE69&currStreakNum=B5CA9C)](https://git.io/streak-stats)
 <!--
 <img src="https://media.tenor.com/TI8pK4xA-FIAAAAj/xiao.gif" alt="<3" width="80%">
 -->
-<img src="gifs/2.gif" alt="<3" align="center" width="60%">
 	
 <br /> <br />
 
@@ -83,10 +84,10 @@ Interests: AI, Linux, Machine Learning, bash scripts
 <br /> <br />
 </td> 
 <td>
-
+<p align="center"> <img src="gifs/2.gif" alt="<3" align="center" width="50%">
+	<br /> <br />
 <a href="https://github.com/NeiKa0s496/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeiKa0s496&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" />
-<p align="center">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NeiKa0s496&layout=compact&langs_count=8&card_width=250&theme=nightowl&hide_progress=true" /></p>
 </table>
 </td>
 
